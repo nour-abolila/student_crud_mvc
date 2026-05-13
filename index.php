@@ -30,5 +30,4 @@ switch ($action) {
 
     default:
         $controller->index();
-        break;
 }
